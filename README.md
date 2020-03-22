@@ -3,8 +3,9 @@
 Ensemble of different epidemiological compartmental models in Netlogo. The different models and their schemes are detailed below. For more information, check the *Info* tab for each model in Netlogo.
 
 <p align="center">
-    <img width="350" height="350" src="images/model.jpg">
+    <img width="350" height="350" src="images/model.gif">
 </p>
+
 
 ##### Models
 
@@ -30,34 +31,34 @@ Ensemble of different epidemiological compartmental models in Netlogo. The diffe
 
 <br><a name="SIR"/>
 
-## 1. Susceptible–Infected–Recovered (SIR)
+### 1. Susceptible–Infected–Recovered (SIR)
 
 <p align="center">
-    <img width="700" height="150" src="images/SIR.jpg">
+    <img width="500" height="100" src="images/SIR.jpg">
 </p>
 
 <br><a name="SIS"/>
 
-## 2. Susceptible–Infected–Susceptible (SIS)
+### 2. Susceptible–Infected–Susceptible (SIS)
 
 <p align="center">
-    <img width="450" height="150" src="images/SIS.jpg">
+    <img width="300" height="100" src="images/SIS.jpg">
 </p>
 
 <br><a name="SEIS"/>
 
-## 3. Susceptible–Exposed–Infected–Susceptible (SEIS)
+### 3. Susceptible–Exposed–Infected–Susceptible (SEIS)
 
 <p align="center">
-    <img width="700" height="300" src="images/SEIS.jpg">
+    <img width="500" height="200" src="images/SEIS.jpg">
 </p>
 
 <br><a name="SEIR"/>
 
-## 4. Susceptible–Exposed–Infected–Recovered (SEIR)
+### 4. Susceptible–Exposed–Infected–Recovered (SEIR)
 
 <p align="center">
-    <img width="800" height="125" src="images/SEIR.jpg">
+    <img width="550" height="100" src="images/SEIR.jpg">
 </p>
 
 <br><a name="SIRC"/>
@@ -65,39 +66,41 @@ Ensemble of different epidemiological compartmental models in Netlogo. The diffe
 ## 5. Susceptible–Infected–Recovered–Carrier (SIRC)
 
 <p align="center">
-    <img width="600" height="300" src="images/SIRC.jpg">
+    <img width="450" height="250" src="images/SIRC.jpg">
 </p>
 
 <br><a name="SIRCS"/>
 
-#### 6. Susceptible–Infected–Recovered–Carrier–Susceptible (SIRCS)
+### 6. Susceptible–Infected–Recovered–Carrier–Susceptible (SIRCS)
 
 <p align="center">
-    <img width="700" height="350" src="images/SIRCS.jpg">
+    <img width="450" height="300" src="images/SIRCS.jpg">
 </p>
 
 <br><a name="MSIR"/>
 
-## 7. Maternal-Immune–Susceptible-Infected-Recovered (MSIR)
+### 7. Maternal-Immune–Susceptible-Infected-Recovered (MSIR)
 
 <p align="center">
-    <img width="800" height="150" src="images/MSIR.jpg">
+    <img width="600" height="100" src="images/MSIR.jpg">
 </p>
+
 
 
 <br><a name="MSEIR"/>
 
-## 8. Maternal-Immune–Susceptible–Exposed–Infected–Recovered (MSEIR)
+### 8. Maternal-Immune–Susceptible–Exposed–Infected–Recovered (MSEIR)
 
 <p align="center">
-    <img width="800" height="150" src="images/MSEIR.jpg">
+    <img width="600" height="125" src="images/MSEIR.jpg">
 </p>
 
 <br><a name="MSEIRS"/>
 
-## 9. Maternal-Immune–Susceptible–Exposed–Infected–Recovered-Susceptible (MSEIRS)
+### 9. Maternal-Immune–Susceptible–Exposed–Infected–Recovered-Susceptible (MSEIRS)
 
 <p align="center">
-    <img width="800" height="300" src="images/MSEIRS.jpg">
+    <img width="600" height="250" src="images/MSEIRS.jpg">
 </p>
+
 
