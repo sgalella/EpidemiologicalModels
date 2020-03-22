@@ -1,6 +1,6 @@
 # Epidemiological Models
 
-Ensemble of different epidemiological compartmental models in Netlogo. The different models and their schemes are detailed below. For more information, check the *Info* tab for each model in Netlogo.
+Ensemble of different epidemiological compartmental models in NetLogo. The different models and their schemes are detailed below. For more information, check the *Info* tab for each model in NetLogo.
 
 <p align="center">
     <img width="350" height="350" src="images/model.gif">
@@ -63,7 +63,7 @@ Ensemble of different epidemiological compartmental models in Netlogo. The diffe
 
 <br><a name="SIRC"/>
 
-## 5. Susceptible–Infected–Recovered–Carrier (SIRC)
+### 5. Susceptible–Infected–Recovered–Carrier (SIRC)
 
 <p align="center">
     <img width="450" height="250" src="images/SIRC.jpg">
