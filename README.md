@@ -3,11 +3,10 @@
 Ensemble of different epidemiological compartmental models in NetLogo. The different models and their schemes are detailed below. For more information, check the *Info* tab for each model in NetLogo.
 
 <p align="center">
-    <img width="350" height="350" src="images/model.gif">
+    <img width="300" height="300" src="images/model.gif">
 </p>
 
-
-##### Models
+## Models
 
 [1. Susceptible–Infected–Recovered (SIR)](#SIR)
 
@@ -36,7 +35,6 @@ Ensemble of different epidemiological compartmental models in NetLogo. The diffe
 <p align="center">
     <img width="500" height="100" src="images/SIR.jpg">
 </p>
-
 <br><a name="SIS"/>
 
 ### 2. Susceptible–Infected–Susceptible (SIS)
