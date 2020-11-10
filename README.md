@@ -1,6 +1,6 @@
 # Epidemiological Models
 
-Ensemble of different epidemiological compartmental models in NetLogo. The different models and their schemes are detailed below. For more information, check the *Info* tab for each model in NetLogo.
+Collection of different [epidemiological compartmental models](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology) in NetLogo. The available models and their schemes are detailed below. For more information, check the `Info` tab for each model in NetLogo.
 
 <p align="center">
     <img width="300" height="300" src="images/model.gif">
