@@ -421,7 +421,7 @@ Check the model info tab to read more about the model, the parameters and other 
 The current script runs the SEIR model, which is represented in the scheme below:
 
 <p align="center">
-  <img width="900" height="150" src="images/SEIR.jpg">
+  <img width="750" height="100" src="../images/SEIR.jpg">
 </p>
 
 

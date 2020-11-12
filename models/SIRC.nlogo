@@ -443,7 +443,7 @@ carrier
 The current script runs the SIRC model, which is represented in the scheme below:
 
 <p align="center">
-  <img width="700" height="300" src="images/SIRC.jpg">
+  <img width="600" height="300" src="../images/SIRC.jpg">
 </p>
 
 

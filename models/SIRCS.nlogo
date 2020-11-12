@@ -443,7 +443,7 @@ carrier
 The current script runs the SIRCS model, which is represented in the scheme below:
 
 <p align="center">
-  <img width="600" height="300" src="images/SIRCS.jpg">
+  <img width="500" height="300" src="../images/SIRCS.jpg">
 </p>
 
 

@@ -504,7 +504,7 @@ Check the model info tab to read more about the model, the parameters and other 
 The current script runs the MSEIRS model, which is represented in the scheme below:
 
 <p align="center">
-  <img width="986" height="318" src="images/MSEIRS.jpg">
+  <img width="700" height="250" src="../images/MSEIRS.jpg">
 </p>
 
 

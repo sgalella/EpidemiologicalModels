@@ -479,7 +479,7 @@ Check the model info tab to read more about the model, the parameters and other 
 The current script runs the MSEIR model, which is represented in the scheme below:
 
 <p align="center">
-  <img width="900" height="150" src="images/MSEIR.jpg">
+  <img width="700" height="150" src="../images/MSEIR.jpg">
 </p>
 
 

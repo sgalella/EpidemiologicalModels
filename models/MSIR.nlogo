@@ -421,7 +421,7 @@ Check the model info tab to read more about the model, the parameters and other 
 The current script runs the MSIR model, which is represented in the scheme below:
 
 <p align="center">
-  <img width="900" height="150" src="images/MSIR.jpg">
+  <img width="700" height="125" src="../images/MSIR.jpg">
 </p>
 
 

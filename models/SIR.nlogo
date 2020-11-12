@@ -363,7 +363,7 @@ HORIZONTAL
 The current script runs the SIR model, which is represented in the scheme below:
 
 <p align="center">
-  <img width="700" height="150" src="images/SIR.jpg">
+  <img width="700" height="150" src="../images/SIR.jpg">
 </p>
 
 
