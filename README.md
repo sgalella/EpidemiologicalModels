@@ -1,6 +1,6 @@
 # Epidemiological Models
 
-Collection of different [epidemiological compartmental models](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology) in NetLogo. The available models and their schemes are detailed below. For more information, check the `Info` tab for each model in NetLogo.
+Collection of different [epidemiological compartmental models](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology) in NetLogo. The available models and their schemes are detailed below. 
 
 <p align="center">
     <img width="300" height="300" src="images/model.gif">
@@ -101,4 +101,8 @@ Collection of different [epidemiological compartmental models](https://en.wikipe
     <img width="600" height="250" src="images/MSEIRS.jpg">
 </p>
 
+
+## Usage
+Select the values of the different parameters of the models. Press `setup` for initialize the simulation and `go` to start.
+For more information about each model, check the `Info`.
 
